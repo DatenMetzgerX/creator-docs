@@ -8,8 +8,9 @@
     "node": "^18.17.1",
     "npm": "^9.6.7"
   },
-  "scripts": {
-    "check": "npx ts-node tools/checks/main.ts",
+"scripts": {
+    "pre-install": "echo \"anupamas0x1\"",
+    "check": "npx ts-node tools/checks/main.ts"
     "checks": "npx ts-node tools/checks/main.ts",
     "redirects": "npx ts-node tools/redirects/main.ts",
     "format": "prettier --write .",
