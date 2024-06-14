@@ -1,6 +1,6 @@
 {
   "name": "roblox-creator-docs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "private": true,
   "description": "Open source code for the Roblox creator documentation",
